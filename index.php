@@ -10,6 +10,8 @@
 
 <body>
     <h1>coba asaj</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, ex? Dolorem, fugit officiis. Praesentium ullam
+        laboriosam, ad tempore dolore soluta!</p>
 </body>
 
 </html>
